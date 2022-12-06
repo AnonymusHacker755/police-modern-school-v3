@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-align: justify;
+}
+
+/* about page */
+.about {
+  font-size: 100px;
+  text-align: center;
+  background-color: rgb(255, 115, 0);
+  border-radius: 5px;
+}
+
+.main-h1 {
+  font-size: 35px;
+}
+
+.logo {
+  width: 45px;
+}
+.main-para{
+  text-align: justify;
+  color: #545353;
+  margin: 10px;
+}
